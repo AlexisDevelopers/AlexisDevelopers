@@ -68,5 +68,5 @@ React · TypeScript · Next.js · Node.js · AWS · Azure · Python · AI/Automa
 ---
 
 ### ☕ Support My Work
-If you like what I do, you can [**buy me a coffee**](https://buymeacoffee.com/alextechai) ☕  
+If you like what I do, you can [**buy me a coffee**](https://buymeacoffee.com/alexisdelossantos) ☕  
 It helps me keep learning, building, and sharing open-source projects!
