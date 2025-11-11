@@ -30,11 +30,11 @@ React · TypeScript · Next.js · Node.js · AWS · Azure · Python · AI/Automa
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?logo=storybook&logoColor=fff)
-![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?logo=framer&logoColor=fff)
 
 **Backend & APIs**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=fff)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=fff)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=fff)
 ![REST](https://img.shields.io/badge/-REST-02569B?logo=swagger&logoColor=fff)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=fff)
@@ -58,7 +58,17 @@ React · TypeScript · Next.js · Node.js · AWS · Azure · Python · AI/Automa
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=fff)
+
+**Artificial Intelligence / Machine Learning**  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=fff)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=fff)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikitlearn&logoColor=fff)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=fff)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=fff)
+![LangChain](https://img.shields.io/badge/-LangChain-00B2FF?logo=langchain&logoColor=fff)
+![OpenAI API](https://img.shields.io/badge/-OpenAI_API-412991?logo=openai&logoColor=fff)
+![HuggingFace](https://img.shields.io/badge/-Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)
+![Machine Learning Ops](https://img.shields.io/badge/-MLOps-2D3748?logo=mlflow&logoColor=fff)
 
 **Testing**  
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=fff)
@@ -79,6 +89,9 @@ React · TypeScript · Next.js · Node.js · AWS · Azure · Python · AI/Automa
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff)
 ![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=fff)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=fff)
+![n8n](https://img.shields.io/badge/-n8n-EA4B8B?logo=n8n&logoColor=fff)
+
 
 ---
 
