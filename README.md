@@ -15,27 +15,70 @@ React · TypeScript · Next.js · Node.js · AWS · Azure · Python · AI/Automa
 
 ---
 
-### 🧰 Languages and Tools
+## 🧰 Languages & Tools
+
+**Frontend**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=fff)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=fff)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=fff)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?logo=reactquery&logoColor=fff)
+![Material UI](https://img.shields.io/badge/-Material%20UI-007FFF?logo=mui&logoColor=fff)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=fff)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?logo=storybook&logoColor=fff)
+![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?logo=framer&logoColor=fff)
+
+**Backend & APIs**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=fff)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=fff)
+![REST](https://img.shields.io/badge/-REST-02569B?logo=swagger&logoColor=fff)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=fff)
+
+**Cloud & DevOps**  
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=ff9900)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=fff)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=fff)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-4285F4?logo=googlecloud&logoColor=fff)
+![CloudFront](https://img.shields.io/badge/-CloudFront-FF9900?logo=amazon-aws&logoColor=fff)
+![API Gateway](https://img.shields.io/badge/-API%20Gateway-FF4F8B?logo=awslambda&logoColor=fff)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=fff)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=fff)
+
+**Data & Caching**  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=fff)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=fff)
+
+**Testing**  
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=fff)
 ![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-E33332?logo=testing-library&logoColor=fff)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=fff)
 ![Playwright](https://img.shields.io/badge/-Playwright-45ba4b?logo=playwright&logoColor=fff)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff)
+
+**Architecture & Design**  
+![Clean Architecture](https://img.shields.io/badge/-Clean%20Architecture-4A90E2?logo=abstract&logoColor=fff)
+![SOLID](https://img.shields.io/badge/-SOLID-000000?logo=codeforces&logoColor=fff)
+![Domain-Driven Design](https://img.shields.io/badge/-DDD-0052CC?logo=jira&logoColor=fff)
+![Design Systems](https://img.shields.io/badge/-Design%20Systems-FF4088?logo=figma&logoColor=fff)
+
+**Other Tools**  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff)
+![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=fff)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff)
 
 ---
 
